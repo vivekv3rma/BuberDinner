@@ -1,4 +1,4 @@
-﻿using BuberDinner.Application.Common.Intefaces.Services;
+﻿using BuberDinner.Application.Common.Interfaces.Services;
 using BuberDinner.Application.Common.Interfaces.Authentication;
 using BuberDinner.Domain.Entities;
 using Microsoft.Extensions.Options;

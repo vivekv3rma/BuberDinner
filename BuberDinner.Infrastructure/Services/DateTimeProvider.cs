@@ -1,4 +1,4 @@
-﻿using BuberDinner.Application.Common.Intefaces.Services;
+﻿using BuberDinner.Application.Common.Interfaces.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;

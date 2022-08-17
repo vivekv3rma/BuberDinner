@@ -1,5 +1,5 @@
 using BuberDinner.Domain.Entities;
-namespace BuberDinner.Application.Common.Intefaces.Persistence;
+namespace BuberDinner.Application.Common.Interfaces.Persistence;
 
 public interface IUserRepository
 {

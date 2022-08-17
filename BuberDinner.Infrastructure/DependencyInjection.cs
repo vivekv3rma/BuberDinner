@@ -1,11 +1,11 @@
-using BuberDinner.Application.Common.Intefaces.Services;
+using BuberDinner.Application.Common.Interfaces.Services;
 using BuberDinner.Application.Common.Interfaces.Authentication;
 using BuberDinner.Infrastructure.Authentication;
 using BuberDinner.Infrastructure.Services;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Configuration;
 using BuberDinner.Infrastructure.Persistence;
-using BuberDinner.Application.Common.Intefaces.Persistence;
+using BuberDinner.Application.Common.Interfaces.Persistence;
 
 namespace BuberDinner.Infrastructure;
 
